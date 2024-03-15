@@ -1,3 +1,3 @@
 # algorithms
-various algorithms/n
+various algorithms  
 1-flipping the matrix
