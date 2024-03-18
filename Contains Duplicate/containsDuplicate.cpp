@@ -20,7 +20,7 @@ public:
 
 class Solution {
 public:
-    bool containsDuplicate(std::vector<int>& nums) {
+    inline bool containsDuplicate(std::vector<int>& nums) {
         std::sort(nums.begin(), nums.end()); // Sort the array
 
         // Iterate through the sorted array and check for duplicates
