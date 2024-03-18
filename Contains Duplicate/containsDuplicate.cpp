@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& nums) {
+    inline bool containsDuplicate(vector<int>& nums) {
         std::unordered_set<int> seen;
 
         for (int num : nums) {
