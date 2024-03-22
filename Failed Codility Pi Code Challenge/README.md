@@ -1,1 +1,0 @@
-for fun attempt of solving the problem to be P, but obviously its NP and needs brute force which is possible given the constraints of the challenge
